@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# WEEK 7 PROJECT
 
+## Rahul Vats
+
+## This project is landing page of Microsoft using React
+
+## Microsoft is the one of the most insipirational IT company.So its my honour to develop a webpage of this company'
+
+![Image ](https://drive.google.com/open?id=1Bpr70jhpdBMVeeOtuRa5jJSVa4eHp4uv)
+![Image ](https://drive.google.com/open?id=1PMzFxGTWCNMNLWe4sXiU-UKMIh-kRpbd)
+![Image ](https://drive.google.com/open?id=12x1fbzzRyNWvVF6cbhdVIs1Lowe4oOMe)
+![Image ](https://drive.google.com/open?id=1GUilBwCbg8pJZCcITMDyXiPAI5wVUGZZ)
 ## Available Scripts
 
 In the project directory, you can run:
